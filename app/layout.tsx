@@ -29,7 +29,7 @@ const poppins = Poppins({
   variable: "--font-poppins",
 })
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://example.com"
+const siteUrl =  "https://birat.nexolinx.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
