@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   description:
     "I help service and software businesses create memorable, optimised website experiences as quickly as they need.",
-  applicationName: "BIRAT Portfolio",
+  applicationName: "BIRAT — Founder & Developer",
   keywords: [
     "Birat",
     "web developer",
@@ -140,7 +140,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               url: siteUrl,
-              name: "BIRAT — Portfolio",
+              name: "BIRAT — Founder & Web Developer",
               potentialAction: {
                 "@type": "SearchAction",
                 target: `${siteUrl}/?q={search_term_string}`,

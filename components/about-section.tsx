@@ -95,7 +95,7 @@ export default function AboutSection() {
               >
                 <h3 className="text-[15px] text-muted-foreground tracking-[0.2em] uppercase mb-4">My Life</h3>
                 <p className="text-[clamp(0.9rem,2.1vw,1rem)] text-muted-foreground leading-relaxed tracking-wide">
-                  {"I'm born in 2009. I live in Nepal. I'm a guy. I'm Nepali. I love coding. I love cricket. I love music. I overthink a lot. I work hard. I build things anyway. Mindest is everything."}
+                  {"I'm born in 2009. I'm a guy. I'm Nepali. I love coding. I love cricket. I love music. I overthink a lot. I work hard. I build things anyway. Mindset is everything."}
                 </p>
               </motion.div>
 
