@@ -16,6 +16,7 @@ const contactLinks = [
   { label: "INSTAGRAM", href: "https://www.instagram.com/biratpandey10" },
   { label: "FACEBOOK", href: "https://www.facebook.com/birat.pandey.7169" },
   { label: "LINKEDIN", href: "https://www.linkedin.com/in/biratpandey/" },
+  { label: "SCHEDULE A MEET", href: "https://calendly.com/biratpandey9/30min" },
   
 ]
 

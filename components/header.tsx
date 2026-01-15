@@ -19,9 +19,11 @@ export default function Header() {
   }, [])
 
   const navItems = [
+   
     { name: "WORK", href: "/works" },
     { name: "ABOUT", href: "/#about" },
     { name: "CONTACT", href: "/#contact" },
+     { label: "SCHEDULE A MEET", href: "https://calendly.com/biratpandey9/30min" },
   ]
 
   const mobileNavItems = navItems.filter((item) => item.name !== "CONTACT")

@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     title: "BIRAT — Founder & Developer",
     description:
       "I help service and software businesses create memorable, optimissite experiences as quickly as they need.",
-    siteName: "BIRAT",
+    siteName: "BIRAT DEV",
     images: [
       {
         url: `${siteUrl}/apple-touch-icon.png`,

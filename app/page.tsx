@@ -1,12 +1,12 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Home",
+  title: "",
   description:
-    "Portfolio of BIRAT — Founder & Web Developer crafting fast, memorable websites and software experiences.",
+    "Portfolio of Birat — Founder & Web Developer crafting fast, memorable websites and software experiences.",
   alternates: { canonical: "/" },
   openGraph: {
-    title: "BIRAT — Portfolio Home",
+    title: "Birat — Portfolio ",
     url: "/",
   },
 }
